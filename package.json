@@ -1,0 +1,23 @@
+{
+  "name": "express-course",
+  "version": "1.0.0",
+  "description": "Curso de express",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "keywords": [
+    "curso",
+    "express",
+    "nodejs"
+  ],
+  "author": "Luciano Varas",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0"
+  }
+}
